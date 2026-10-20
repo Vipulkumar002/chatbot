@@ -1,0 +1,21 @@
+
+# Secrets
+backend/.env
+
+# Python virtual environment
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
